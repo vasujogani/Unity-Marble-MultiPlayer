@@ -16,7 +16,7 @@ Platform assembly: H:\Unity\BallTest\Build\Test_Data\Managed\UnityEngine.Network
 Loading H:\Unity\BallTest\Build\Test_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
 Platform assembly: H:\Unity\BallTest\Build\Test_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
 Loading H:\Unity\BallTest\Build\Test_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
-- Completed reload, in  1.904 seconds
+- Completed reload, in  2.224 seconds
 Platform assembly: H:\Unity\BallTest\Build\Test_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: H:\Unity\BallTest\Build\Test_Data\Managed\System.dll (this message is harmless)
 desktop: 1920x1080 59Hz; virtual: 1920x1080 at 0,0
